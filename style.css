@@ -18,6 +18,11 @@ td {
     font-size: 50px;
 }
 
+.line {
+    /*button.className += " line"*/
+    text-decoration: line-through;
+}
+
 button:disabled {
     color: black;
 }
